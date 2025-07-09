@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphonse243&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
-## 👋 Salut, moi c'est VOTRE_PRENOM !
+## 👋 Salut, moi c'est KATUMBA !
 
 Développeur passionné par la technologie, l'innovation et la résolution de problèmes. Toujours prêt à apprendre de nouvelles choses et à relever de nouveaux défis.
 
@@ -49,9 +49,9 @@ Développeur passionné par la technologie, l'innovation et la résolution de pr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ 🔭 I’m currently working on CMS
+ 🌱 I’m currently learning Django
+ 👯 I’m looking to collaborate on my CMS
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
