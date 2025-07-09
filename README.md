@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <div align="center">
   <a href="https://www.linkedin.com/in/arthur-katumba-7a916b317/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -40,7 +39,7 @@ Développeur passionné par la technologie, l'innovation et la résolution de pr
 ## 📈 Vues du profil
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Alphonse243/count.svg" alt="Profile Views" />
+  <img src="https://pbs.twimg.com/profile_images/1777377562114629632/x8Sn-Jt6_400x400.jpg" alt="Profile Views" />
 </div>
 
 
