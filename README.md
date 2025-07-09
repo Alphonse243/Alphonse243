@@ -25,10 +25,10 @@ Développeur passionné par la technologie, l'innovation et la résolution de pr
 ## 🛠️ Stack & Outils
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,mysql,mongodb,laravel,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,sql,express,react,nodejs,mysql,mongodb,laravel,tailwind" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,figma,nodejs,composer,npm" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,figma,node,composer,npm" />
 </div>
 
 ## 🌟 Ce que j'apporte
