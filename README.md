@@ -25,7 +25,7 @@ Développeur passionné par la technologie, l'innovation et la résolution de pr
 ## 🛠️ Stack & Outils
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,sql,express,react,nodejs,mysql,mongodb,laravel,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,express,react,nodejs,mysql,mongodb,laravel,tailwind" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,docker,git,postman,figma,node,composer,npm" />
@@ -40,7 +40,7 @@ Développeur passionné par la technologie, l'innovation et la résolution de pr
 ## 📈 Vues du profil
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Alphonse243/count.svg" alt="Profile Views" />
+  <img src="https://pbs.twimg.com/profile_images/1777377562114629632/x8Sn-Jt6_400x400.jpg" alt="Profile Views" />
 </div>
 
 
