@@ -6,6 +6,8 @@
 
 <p align="center">
   <b>Développeur Full-Stack | Passionné d'Innovation | Fier originaire (RDC) 🇨🇩</b>
+📍 Basé à <b>Goma</b>, actuellement à <b>Kisangani</b>
+</p>
 </p>
 
 <div align="center">
