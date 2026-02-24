@@ -56,22 +56,22 @@ Je suis un développeur polyvalent et passionné par la résolution de problème
 
 ###  Mes Statistiques GitHub
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alphonse243&theme=radical&no-bg=true&margin-w=15" alt="Trophées GitHub" />
-</div>
+</div> -->
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alphonse243&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphonse243&layout=compact&theme=transparent&hide_border=true" />
-</div>
+</div> -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alphonse243&theme=transparent&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alphonse243&theme=transparent&hide_border=true" />
   
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alphonse243&theme=react-dark&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alphonse243&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
