@@ -54,7 +54,7 @@ Je suis un développeur polyvalent et passionné par la résolution de problème
 
 ---
 
-### 📊 Mes Statistiques GitHub
+###  Mes Statistiques GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alphonse243&theme=radical&no-bg=true&margin-w=15" alt="Trophées GitHub" />
@@ -75,6 +75,12 @@ Je suis un développeur polyvalent et passionné par la résolution de problème
 </div>
 
 ---
+
+## 📈 Vues du profil
+
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_images/1777377562114629632/x8Sn-Jt6_400x400.jpg" alt="Profile Views" />
+</div>
 
 ### 🌟 Ce que j'apporte aux projets
 
