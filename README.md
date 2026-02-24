@@ -76,13 +76,12 @@ Je suis un développeur polyvalent et passionné par la résolution de problème
 
 ---
 
-## 📈 Vues du profil
 
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/1777377562114629632/x8Sn-Jt6_400x400.jpg" alt="Profile Views" />
 </div>
 
-### 🌟 Ce que j'apporte aux projets
+###  Ce que j'apporte aux projets
 
 * **Polyvalence & Adaptabilité** : Capable de maîtriser rapidement de nouveaux outils.
 * **Vision Orientée Solution** : Une approche créative pour transformer des défis en applications fiables.
